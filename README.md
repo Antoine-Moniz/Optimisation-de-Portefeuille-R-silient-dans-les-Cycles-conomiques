@@ -7,7 +7,7 @@ Ce projet se concentre sur le développement de portefeuilles d'investissement o
 
 ## Objectifs du Projet
 
-### **1. Construction de Portefeuilles sur Plusieurs Marchés**
+### **A. Construction de Portefeuilles sur Plusieurs Marchés**
 - Analyse des données de trois indices majeurs :
   - **S&P 500** (États-Unis)
   - **STOXX 600** (Europe)
@@ -15,7 +15,7 @@ Ce projet se concentre sur le développement de portefeuilles d'investissement o
 - Conversion des données en une devise unique (USD) pour garantir la comparabilité.
 - Étude des phases de marché comme les récessions et les périodes de croissance pour évaluer la résilience et les performances des portefeuilles.
 
-### **2. Optimisation et Analyse des Risques**
+### **B. Optimisation et Analyse des Risques**
 - Optimisation des portefeuilles pour différents niveaux d'aversion au risque :
   - Offensif
   - Équilibré
@@ -23,7 +23,7 @@ Ce projet se concentre sur le développement de portefeuilles d'investissement o
   - Prudent
 - Création de portefeuilles inconditionnels (statique) et conditionnels (dynamique) en tenant compte des cycles économiques.
 
-### **3. Intégration des Cycles Économiques**
+### **C. Intégration des Cycles Économiques**
 - Identification des phases de marché clés :
   - Bulle technologique (2000)
   - Crise des subprimes (2008)
